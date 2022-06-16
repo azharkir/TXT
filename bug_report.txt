@@ -1,1 +1,21 @@
+Summary: the app cannot find deliveryman after accepting order and payment
+Project: Glove app
+Component: Delivery
+Version: 5.168.1 246620
+Severity: Minor
+Priority: Medium
+Status: New
+Author: Azhar Kiryukhina
+Assigned to: Developer D
+Description: 
+-App: Glovo
+-Device: Android mobile
+-OS: Android version 12
+Steps to reproduce:
+1. Make an order
+2. Make payment
+3. Waiting for assigned deliveryman
+Actual outcome: Deliveryman was not assigned during 80 minutes
+Expected outcome: Deliveryman should be assigned during 10 minutes
+
 
